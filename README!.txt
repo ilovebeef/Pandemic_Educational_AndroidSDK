@@ -5,3 +5,5 @@ Credit: Matt, Hong P. Nguyen, David, Danh and Shuyang (In order of most to least
 Everything but me started this project fresh with absolutely no knowledge of the Android SDK
 environment. But somehow, we managed to pull through. Matt, David and I (Hong Nguyen), spent countless
 hours for this to work.
+
+All assets are being used for educational purpose only under the “Fair Educational Usage”
